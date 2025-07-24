@@ -1,31 +1,18 @@
 # Core dependencies
-openai>=1.0.0
-instructor>=1.0.0
-pydantic>=2.0.0
-python-dotenv>=1.0.0
+openai
+instructor
+pydantic
+python-dotenv
 
 # Search and vector databases
-qdrant-client>=1.7.0
-elasticsearch>=8.0.0
+qdrant-client
+elasticsearch
 
 # LLM and AI
-litellm>=1.0.0
-tiktoken>=0.5.0
+litellm
+tiktoken
 
 # Data processing
-pandas>=2.0.0
-numpy>=1.24.0
+pandas
+numpy
 
-# Utilities
-requests>=2.31.0
-redis>=5.0.0
-
-# Development and testing
-pytest>=7.0.0
-pytest-asyncio>=0.21.0
-black>=23.0.0
-flake8>=6.0.0
-
-# Optional: Jupyter for development
-jupyter>=1.0.0
-ipykernel>=6.0.0 
