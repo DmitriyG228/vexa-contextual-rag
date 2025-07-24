@@ -60,7 +60,7 @@ logs/
 *.log
 
 # Data directories
-data/
+data/*
 mocks/
 
 # OS
