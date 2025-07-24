@@ -44,7 +44,7 @@ This implementation is specifically optimized to process meeting data accessed f
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Vexa-ai/vexa-contextual-rag
    cd vexa-contextual-rag
    ```
 
