@@ -16,3 +16,5 @@ tiktoken
 pandas
 numpy
 
+langchain-text-splitters
+tabulate

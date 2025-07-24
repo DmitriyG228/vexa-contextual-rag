@@ -1,13 +1,8 @@
 from typing import List, Dict, Any, Tuple, Optional, Callable
 import pandas as pd
 from datetime import datetime
-import uuid
 from qdrant_client.models import PointStruct
-from sqlalchemy.ext.asyncio import AsyncSession
-from sqlalchemy import select, and_
 
-from elasticsearch import AsyncElasticsearch
-from qdrant_client import AsyncQdrantClient
 
 from .instructor_models import TopicsExtraction
 
